@@ -1,5 +1,4 @@
 import React from "react";
-// import portrait from "../../images/portrait.JPG";
 import don from "../../images/don profile pic.jpg";
 
 import Container from "react-bootstrap/Container";
@@ -9,8 +8,7 @@ import Media from "react-bootstrap/Media";
 
 function About() {
   const style = {
-    fontSize: "4rem",
-    // padding: "20px",
+    fontSize: "5rem",
     textAlign: "center",
     fontWeight: 80,
     
@@ -28,7 +26,7 @@ function About() {
               src={don}
               className="my-2"
               style={style}
-              alt="Grant Emerson"
+              alt="Donald Wu"
             />
           </Media>
         </Col>
