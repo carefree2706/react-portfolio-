@@ -10,8 +10,8 @@ function About() {
   const style = {
     fontSize: "5rem",
     textAlign: "center",
-    fontWeight: 80,
-    
+    fontWeight: 10,
+    fontFamily:'pegasus'
   };
 
   return (

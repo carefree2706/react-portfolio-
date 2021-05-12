@@ -8,7 +8,8 @@ var style = {
 }
 const style2 = {
     textDecoration: 'none',
-    color: 'blue'
+    
+ 
 }
 
 function Navigation() {

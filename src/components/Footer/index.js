@@ -26,7 +26,7 @@ function Footer() {
       <p className="footer">
         <a
           style={gitStyle}
-          className="btn btn-outline-dark btn-social mx-1"
+          className="btn btn-outline-white btn-social mx-1"
           href="https://github.com/carefree2706"
         >
           <i>{github}</i>

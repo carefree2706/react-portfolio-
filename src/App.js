@@ -11,8 +11,10 @@ import Cards from './components/Cards/index';
 
 
 const style = {
-  color: 'blue',
-  textDecoration: 'none'
+  color: 'black',
+  textDecoration: 'none',
+
+  
 }
 
 function App() {
