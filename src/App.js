@@ -11,10 +11,9 @@ import Cards from './components/Cards/index';
 
 
 const style = {
-  color: 'black',
+  color: 'purple',
   textDecoration: 'none',
 
-  
 }
 
 function App() {
