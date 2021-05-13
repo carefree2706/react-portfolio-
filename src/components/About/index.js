@@ -12,8 +12,6 @@ function About() {
     textAlign: "center",
     fontWeight: 10,
     fontFamily:'pegasus',
-    
-
   };
 
   return (

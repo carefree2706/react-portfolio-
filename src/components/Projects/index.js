@@ -33,7 +33,7 @@ function FullCarousel() {
       <Carousel.Item>
         <img className="d-block w-100 photo" src={Ed} alt="Second Slide" />
         <Carousel.Caption>
-          <h4 style={{ textAlign: "center" }}>Employee directory</h4>
+          <h4 style={{ textAlign: "center" }}>Employee directo</h4>
           <p>A web application that lists all employees in one directory using React.</p>
           <h4>
             <a href="https://github.com/carefree2706/employee-directory-">

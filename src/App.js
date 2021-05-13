@@ -5,14 +5,15 @@ import Nav from './components/Nav';
 import About from './components/About/index';
 import Contact from './components/Contact/index';
 import Resume from './components/Resume/index';
-import Projects from './components/Projects/index';
 import Footer from './components/Footer';
 import Cards from './components/Cards/index';
+
 
 
 const style = {
   color: 'purple',
   textDecoration: 'none',
+ 
 
 }
 

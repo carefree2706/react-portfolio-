@@ -4,9 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-Built using React, Bootstrap, and Youtube.
-
-### [React portfolio](https://carefree2706.github.io/react-portfolio-/) ###
+### [React portfolio](https://fierce-island-86276.herokuapp.com/) ###
 
  ![Screenshot of live chat](src/images/contactMe.jpg)
 
